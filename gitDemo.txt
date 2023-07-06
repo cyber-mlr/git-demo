@@ -4,3 +4,5 @@ Hello Git.
 Hello Git.
 Hello Git.
 111111111111
+222222222222
+通过ssh免密登录拉取
